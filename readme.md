@@ -5,8 +5,8 @@
         Layer: Consensus
         Maintainer: Jason Dreyzehner
         Status: Draft
-        Initial Publication Date: 2025-01-28
-        Latest Revision Date: 2025-01-28
+        Initial Publication Date: 2025-01-29
+        Latest Revision Date: 2025-01-29
         Version: 1.0.0
 
 <summary><strong>Table of Contents</strong></summary>
@@ -435,7 +435,7 @@ Please see the following implementations for additional examples and test vector
 ## Feedback & Reviews
 
 - [TXv5 CHIP Issues](https://github.com/bitjson/bch-txv5/issues)
-- [`CHIP 2025-01 TXv5: Transaction Version 5` - Bitcoin Cash Research](https://bitcoincashresearch.org/t/)
+- [`CHIP 2025-01 TXv5: Transaction Version 5` - Bitcoin Cash Research](https://bitcoincashresearch.org/t/chip-2025-01-txv5-transaction-version-5/1490)
 
 ## Changelog
 
